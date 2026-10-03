@@ -1,0 +1,16 @@
+{
+  "itemGroup.suveren": "Feudal Sovereign",
+  "item.suveren.regal_crown": "Regal Crown",
+  "item.suveren.royal_scepter": "Royal Scepter",
+  "item.suveren.war_table": "War Map",
+  "item.suveren.granary_deed": "Deed: Granary",
+  "item.suveren.armory_deed": "Deed: Armory",
+  "item.suveren.farmer_contract": "Farmer's Contract",
+  "item.suveren.knight_spawn_egg": "Knight Spawn Egg",
+  "item.suveren.bandit_spawn_egg": "Bandit Spawn Egg",
+  "item.suveren.farmer_spawn_egg": "Farmer Spawn Egg",
+  "block.suveren.heraldic_banner": "Heraldic Banner",
+  "entity.suveren.knight": "Knight",
+  "entity.suveren.bandit": "Bandit",
+  "entity.suveren.farmer": "Farmer"
+}

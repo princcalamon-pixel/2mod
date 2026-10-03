@@ -1,0 +1,16 @@
+{
+  "itemGroup.suveren": "Feudalni Suveren",
+  "item.suveren.regal_crown": "Kraljeva krona",
+  "item.suveren.royal_scepter": "Kraljevo zezlo",
+  "item.suveren.war_table": "Vojna karta",
+  "item.suveren.granary_deed": "Listina: zitnica",
+  "item.suveren.armory_deed": "Listina: orozarna",
+  "item.suveren.farmer_contract": "Pogodba za kmeta",
+  "item.suveren.knight_spawn_egg": "Jajce za prikaz viteza",
+  "item.suveren.bandit_spawn_egg": "Jajce za prikaz razbojnika",
+  "item.suveren.farmer_spawn_egg": "Jajce za prikaz kmeta",
+  "block.suveren.heraldic_banner": "Grbovna zastava",
+  "entity.suveren.knight": "Vitez",
+  "entity.suveren.bandit": "Razbojnik",
+  "entity.suveren.farmer": "Kmet"
+}
